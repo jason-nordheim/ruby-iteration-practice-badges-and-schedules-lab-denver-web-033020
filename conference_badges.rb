@@ -14,6 +14,6 @@ def assign_rooms names
   output
 end
 
-def printer attendees 
+def printer attendees
   
-end 
+end
